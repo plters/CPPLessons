@@ -1,0 +1,105 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f733850e392e53e0e0c92373520ce199f4e1377db2cbcbb31fda580aa7b0fab6"
+    },
+    {
+      "guid" : "99bce69deb56dc54b5f08ff6b25acce241b38638d4acb69906bf719468829822"
+    },
+    {
+      "guid" : "bf91d6884b0b6e47d0e4839a4970ac26872b80e246e2622aaa6ac611c25b392f"
+    },
+    {
+      "guid" : "8942527932d3e1a16bdeadbfc1e5e8b4956073e67cdf72d41d77206b0896a565"
+    },
+    {
+      "guid" : "50bc6148e4c7ec5dc0dd671a2dcc31fb12820f2eeffead4c0e3d253fba8f5ab1"
+    },
+    {
+      "guid" : "713bd45b31edd647b8a019104bfe96917d190787eb20e9a3a00ef8a983b6a6e0"
+    },
+    {
+      "guid" : "6ffdc1b8f0bc316a1eac8a8d921d81a4630e0b143e481848c377d93b800f3920"
+    },
+    {
+      "guid" : "45f8bccb3cf7cfe4cc711156cf850701b0c4065a4512761cb73b6de186deed24"
+    },
+    {
+      "guid" : "19302f92e5063866f02e834df61c3bb7d8a0ec843f3b05942952567fb6f34338"
+    },
+    {
+      "guid" : "28b04557796e5cead8557d8b085a4b78bf71078e550e6ae681aeb22fd3e3d4b4"
+    },
+    {
+      "guid" : "e9ec4881806d61136c65e06db93b3bba808633fe536b95cdd70f4b99ca87c22c"
+    },
+    {
+      "guid" : "ce3a0ec28a9ffba785245137bf104173457cb19f7a1ab6cdcc880cbff86e0a4e"
+    },
+    {
+      "guid" : "fafbdb8e12cc576c2e762485dcf3b189a1ff34d2c0a1a2663433eb8af161fc46"
+    },
+    {
+      "guid" : "77d90fa3b6c398b6f132ff12f859ca989d56e6a39545d15fa0fccc3a5cf29b47"
+    },
+    {
+      "guid" : "ad8ffaf34a8d12979fb9633acc7b762286a8e8d3d074ff388d4e7ba9426de42a"
+    },
+    {
+      "guid" : "d316c23020c28b0e77c29e2fc721b05dc8b63fb9af88224005e5bb4b7d0be370"
+    }
+  ],
+  "containerPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/CPPLessons.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Index/Build/Products",
+      "derivedDataPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/apple/Documents/GitHub/CPPLessons/code/DerivedData/CPPLessons/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
